@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(241, 127, 127);
+}
+.w1{
+    background-image: url(./Web\ dev.jpg);
+    height: 200px;
+    color: rgb(220 239 189);
+    margin: -8px;
+}
+/* .vedant{
+    color: green;
+} */
+.Image1{
+    width: 1000px;
+    margin-left: 300px;
+}
+.Image2{
+    width: 1000px;
+    margin-left: 300px; 
+}
+.Image3{
+    width: 1000px;
+    margin-left: 300px;
+}
+.WebdevButton{
+    background-color: #00ff49e8;    margin-bottom: 50px;
+    margin-left: 800px;
+    margin-top: 50px;
+}
+

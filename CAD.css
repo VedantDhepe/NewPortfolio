@@ -1,0 +1,49 @@
+body{
+    background-color:rgb(211, 147, 147);;
+}
+.C1{
+    background-image: url(shutterstock_1639936528.webp);
+    height:300px;
+    color:yellow;
+    margin-left: -9px;
+    margin-top: -11px;
+}
+.C2{
+    width: 800px;
+    margin-left: 400px;
+}
+.C3{
+    width: 800px;
+    margin-left: 400px;
+}
+.C4{
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+}
+.C5{
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 100px;
+
+}
+.C6{
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+
+}
+.project{
+    margin-left: 500px;
+}
+.miniProject{
+margin-left: 700px;
+}
+.sheet{
+margin-left: 700px;
+}
+.buttonCad{
+    margin-left: 800px;
+    margin-bottom:50px;
+    background-color: #00ff49e8;
+}
